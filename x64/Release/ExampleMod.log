@@ -1,8 +1,0 @@
-﻿  ExampleMod.cpp
-     Creating library D:\VSCODE Projects\Civitas-Modloader\x64\Release\Mods\ExampleMod\ExampleMod.lib and object D:\VSCODE Projects\Civitas-Modloader\x64\Release\Mods\ExampleMod\ExampleMod.exp
-  Generating code
-  68 of 321 functions (21.2%) were compiled, the rest were copied from previous compilation.
-    35 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  ExampleMod.vcxproj -> D:\VSCODE Projects\Civitas-Modloader\x64\Release\Mods\ExampleMod\ExampleMod.dll
