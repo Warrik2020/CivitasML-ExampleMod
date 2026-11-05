@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\vscode projects\\civitas-modloader\\examplemod\\civitas.h\\civitaspoly.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\cstdint",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\yvals_core.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\xkeycheck.h",
+            "d:\\program files\\microsoft visual studio\\18\\enterprise\\vc\\tools\\msvc\\14.51.36231\\include\\stdint.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
